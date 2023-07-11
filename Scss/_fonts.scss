@@ -1,0 +1,18 @@
+@font-face {
+   font-family: 'Open Sans Condensed';
+   src: url('../fonts/OpenSansCondensed-Regular.woff2') format('woff2'),
+       url('../fonts/OpenSansCondensed-Regular.woff') format('woff');
+   font-weight: normal;
+   font-style: normal;
+   font-display: swap;
+}
+
+@font-face {
+   font-family: 'Open Sans SemiCondensed';
+   src: url('../fonts/OpenSansSemiCondensed-Bold.woff2') format('woff2'),
+       url('../fonts/OpenSansSemiCondensed-Bold.woff') format('woff');
+   font-weight: bold;
+   font-style: normal;
+   font-display: swap;
+}
+

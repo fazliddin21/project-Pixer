@@ -1,0 +1,24 @@
+.hero {
+  padding: 97px 0;
+}
+.hero__inner {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.hero__inner-content {
+  max-width: 470px;
+}
+.hero__inner--title {
+  color: #000;
+  font-size: 30px;
+  font-weight: 700;
+  line-height: 130%;
+}
+.hero__inner--text {
+  padding: 16px 0;
+  color: #000;
+  font-size: 17px;
+  font-weight: 400;
+  line-height: 24px;
+}
